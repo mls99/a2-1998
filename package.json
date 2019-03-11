@@ -1,0 +1,17 @@
+{
+  "name": "info-1998-a2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "give-me-a-joke": "^0.1.2",
+    "random-name": "^0.1.2"
+  }
+}
